@@ -2,3 +2,4 @@
 *.elf
 *.bin
 gnu-mcu-eclipse-qemu
+.gitignore
